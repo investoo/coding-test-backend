@@ -1,6 +1,6 @@
 # Convertoo Backend Coding Test
 
-> Congratulation on making it to the coding test section of the interview process, this coding test will consist of showing your skills in creating a simple CRUD REST api for TODO tasks.
+> Congratulations on making it to the coding test section of the interview process, this coding test will consist of showing your skills in creating a simple CRUD REST api for TODO tasks.
 
 ## API Endpoints
 
